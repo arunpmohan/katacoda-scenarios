@@ -1,8 +1,8 @@
 {
-  "title": "test",
-  "description": "",
-  "difficulty": "Beginner",
-  "time": "10",
+  "title": "SMP Autoscaling",
+  "description": "SMP Autoscaling with prometheus metrics",
+  "difficulty": "Intermediate",
+  "time": "20",
   "details": {
     "steps": [
       {
@@ -42,7 +42,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
